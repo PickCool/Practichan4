@@ -1,0 +1,7 @@
+C:\Users\Тошка\source\repos\Pr4Ex1\bin\Debug\Pr4Ex1.exe.config
+C:\Users\Тошка\source\repos\Pr4Ex1\bin\Debug\Pr4Ex1.exe
+C:\Users\Тошка\source\repos\Pr4Ex1\bin\Debug\Pr4Ex1.pdb
+C:\Users\Тошка\source\repos\Pr4Ex1\obj\Debug\Pr4Ex1.csprojAssemblyReference.cache
+C:\Users\Тошка\source\repos\Pr4Ex1\obj\Debug\Pr4Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Тошка\source\repos\Pr4Ex1\obj\Debug\Pr4Ex1.exe
+C:\Users\Тошка\source\repos\Pr4Ex1\obj\Debug\Pr4Ex1.pdb
